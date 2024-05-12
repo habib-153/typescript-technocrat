@@ -1,0 +1,8 @@
+## Data Types - 2
+- Primitive               - non Primitive
+  -- number                 -- Array 
+  -- string                 -- Tuple 
+  -- boolean                -- Object
+  -- null
+  -- undefined
+  -- symbol
